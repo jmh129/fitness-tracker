@@ -24,11 +24,10 @@ router.post("/api/workouts", (req, res) => {
     });
 });
 
-router.put("./api/workouts/:id", (req, res) => {
+router.put("/api/workouts/:id", (req, res) => {
   const id = req.params.id;
   const exercise = req.body;
   db.Workout.findByIdAndUpdate(id, { $push: { exercises: exercise } })
-    // .sort({ date: -1 })
     .then((dbWorkout) => {
       res.json(dbWorkout);
     })
