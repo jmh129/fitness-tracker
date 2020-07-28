@@ -26,11 +26,11 @@ Link to site: https://tranquil-tor-98397.herokuapp.com/
 
 ### Example
 ### Home Page
-![Alt Text]
+![Alt Text](https://github.com/jmh129/fitness-tracker/blob/master/assets/images/homepage.png?raw=true)
 ### Add Workout
-![Alt Text]
+![Alt Text](https://github.com/jmh129/fitness-tracker/blob/master/assets/images/add-workout.png?raw=true)
 ### Dashbaord
-![Alt Text]
+![Alt Text](https://github.com/jmh129/fitness-tracker/blob/master/assets/images/dashboard.png?raw=true)
 
 ### Credits
 Credit to the Georgia Institute of Technology Coding Bootcamp for the instruction for the assignemnt. 
